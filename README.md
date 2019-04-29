@@ -1,6 +1,12 @@
 # makes-demo1
 "makes" skeleton demo, only contains folder "common".
 
+```sh
+npx makes huochunpeng/makes-demo1
+# or
+npx makes huochunpeng/makes-demo1 a_project_name
+```
+
 "common/" folder is the base skeleton folder no matter what skeleton features end user chose.
 
 This demo did not provide any skeleton features.
